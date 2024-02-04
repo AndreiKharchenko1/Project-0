@@ -1,0 +1,11 @@
+body {
+    background: url("https://as2.ftcdn.net/v2/jpg/05/48/45/87/1000_F_548458753_wE1OpMV8tyeog9nproCjc6Q4QLlkRKAN.jpg");
+}
+h1 {
+    color:rgb(34, 143, 143);
+    font-family:'Courier New', Courier, monospace;
+}
+p {
+    color: black;
+    font-family:Verdana, Tahoma, sans-serif;
+}
